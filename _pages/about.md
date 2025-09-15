@@ -14,13 +14,13 @@ You can find my CV here:
 [Email](momomelo128@163.com)
 
 
-##Education Experience
+## Education Experience
 - - -
 + M.S. in Tianjin, Tianjin University, 2027(expected)
 + B.S. in Tianjin, the Civil Aviation University of China, 2024
 
 
-##Skills
+## Skills
 - - -
 + Computer Vision
   * Deep Learning
@@ -28,14 +28,14 @@ You can find my CV here:
   * Multi-modal
   * Large Language Model
  
-##Publlications
+## Publlications
 - - -
 
 
-##Participate in a project or competition
+## Participate in a project or competition
 - - -
 
 
 
-##Honors & Awards
+## Honors & Awards
 - - -
